@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/polylith_cli-${{ version }}.tar.gz
-    sha256: 63ad869f06c33e49815df8af2b04b462505b7807485037e689986a1c8f0e5aa9
+    sha256: 1addf04879dd497641cdffa4e312e2e0976ca86bfbdc98b0be6fede8856f9b2d
   - url: https://raw.githubusercontent.com/DavidVujic/python-polylith/refs/heads/main/LICENSE
     sha256: cb206b34b119d5e0f3ed4634fa8cafa73b0ef64f390772ee2211880e0730c4a7
 
