@@ -4,6 +4,7 @@ context:
   name: polylith-cli
   version: "1.45.3"
 
+
 package:
   name: ${{ name|lower }}
   version: ${{ version }}
