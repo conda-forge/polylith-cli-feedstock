@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: polylith-cli
-  version: "1.51.1"
+  version: "1.52.1"
 
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/polylith_cli-${{ version }}.tar.gz
-    sha256: 99632b56e57bbd8df2512741d94166d4db3ceb95f44255669c7590411e037a91
+    sha256: a5bde997f6c1e85bc473fe2f4314e3fd52a169a85d4d34811fd4b6b487748817
   - url: https://raw.githubusercontent.com/DavidVujic/python-polylith/refs/heads/main/LICENSE
     sha256: cb206b34b119d5e0f3ed4634fa8cafa73b0ef64f390772ee2211880e0730c4a7
 
